@@ -1,9 +1,9 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-const MarketScreen = (props) => {
+const MarketScreen = () => {
     return (
-        <View>
+        <View style={{flex: 1, justifyContent: 'center', alignItems: 'center' }}>
             <Text>MarketScreen Component</Text>
         </View>
     )

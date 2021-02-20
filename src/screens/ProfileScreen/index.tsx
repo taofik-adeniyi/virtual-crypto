@@ -1,9 +1,9 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-const ProfileScreen = (props) => {
+const ProfileScreen = () => {
     return (
-        <View>
+        <View style={{justifyContent: 'center', flex: 1, alignItems: 'center'}}>
             <Text>ProfileScreen Component</Text>
         </View>
     )
