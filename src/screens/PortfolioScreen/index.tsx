@@ -34,7 +34,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 4,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -43,7 +43,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 5,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -52,7 +52,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 6,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -61,7 +61,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 7,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -70,7 +70,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 8,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -79,7 +79,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 9,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -88,7 +88,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 10,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -97,7 +97,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 11,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -106,7 +106,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 12,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -115,7 +115,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 13,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -124,7 +124,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 14,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -133,7 +133,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 15,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
@@ -142,7 +142,7 @@ const portfolioCoins = [
     valueUSD: 30120,
   },
   {
-    id: 3,
+    id: 16,
     name: "Ethereum",
     image:
       "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
