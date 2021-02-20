@@ -35,7 +35,7 @@ export default function BottomTabNavigator() {
         }}
       />
       <BottomTab.Screen
-        name="Market"
+        name="Markets"
         component={MarketScreen}
         options={{
           tabBarIcon: ({ color }) => <FontAwesome5 name="chart-line" size={30} color={color} />,
@@ -49,7 +49,7 @@ export default function BottomTabNavigator() {
         }}
       />
       <BottomTab.Screen
-        name="Profiles"
+        name="Profile"
         component={ProfileScreen}
         options={{
           tabBarIcon: ({ color }) => <FontAwesome name="user" size={30} color={color} />,
