@@ -6,6 +6,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         flex: 1,
         backgroundColor: 'white',
+        marginTop: 40
     },
     image: {
         height: '40%',
